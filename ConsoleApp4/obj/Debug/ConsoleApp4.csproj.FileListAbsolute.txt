@@ -1,7 +1,0 @@
-D:\Projects\2020_05_17\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-D:\Projects\2020_05_17\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-D:\Projects\2020_05_17\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-D:\Projects\2020_05_17\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
-D:\Projects\2020_05_17\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
-D:\Projects\2020_05_17\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-D:\Projects\2020_05_17\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
